@@ -3,6 +3,7 @@ The employee_repository project is a Spring Boot application designed to manage 
 <br><br>
 
 **EMPLOYEE LIST**
+<BR>
 Represent all the employees with details and delete and update options
 ![Screenshot (51)](https://github.com/Wantstocode/Employee_repository/assets/120893466/e14e349f-949a-4a0e-893c-0fca18037a90)
 <br>
